@@ -1,6 +1,6 @@
 #Excursion
 > CodeCademy's Challenge Project Excursion.
-> Live: 
+> Live: https://aromero18020.github.io/Excursion/
 
 ## Table of Contents
 * [General Info](#general-information)
